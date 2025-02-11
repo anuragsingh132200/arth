@@ -5,7 +5,7 @@ from bs4 import BeautifulSoup
 
 # Define the range of loop numbers
 start_num = 905594
-end_num = 905561
+end_num = 905651
 
 # CSV file to store data
 csv_filename = "kautilya_arthashastra_translations.csv"
